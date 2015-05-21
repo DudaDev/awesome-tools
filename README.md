@@ -11,7 +11,8 @@ Facebook PathPicker is a simple command line tool that solves the perpetual prob
 ###[MyRepos](http://myrepos.branchable.com/)
 Multiple Repository management tool 
 * to register multiple repos under same parent dir:
-`cd <parent_dir>
-find . -maxdepth 1 -exec mr register {} \; `
+
+`cd <parent_dir>`
+`find . -maxdepth 1 -exec mr register {} \; `
 
 
