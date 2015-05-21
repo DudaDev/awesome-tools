@@ -12,7 +12,7 @@ Facebook PathPicker is a simple command line tool that solves the perpetual prob
 Multiple Repository management tool 
 * to register multiple repos under same parent dir:
 
-`cd <parent_dir>`
+`cd <parent_dir>`  
 `find . -maxdepth 1 -exec mr register {} \; `
 
 
